@@ -69,7 +69,7 @@
     width: 20px;
     height: 20px;
 }
-.header__link:hover{
+.header__link:active{
     color: rgb(255, 156, 40);
     transition: 0.5s;
  
@@ -179,9 +179,9 @@ background: rgb(39, 44, 61);
         align-items: center;  
         
     }
-    .header__1:hover{
+    .header__1:activ{
         color: rgb(255, 156, 40);
-        transition: 0.5s;
+        transition: 5s;
     }
     .footer{
         display: flex;
